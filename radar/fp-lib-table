@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "op184")(type "KiCad")(uri "${KIPRJMOD}/LIB/ul_OP184FSZ-REEL7/KiCAD/2022-04-18_10-06-03/footprints.pretty")(options "")(descr ""))
+  (lib (name "adf4169")(type "KiCad")(uri "${KIPRJMOD}/LIB/ul_ADF4169CCPZ/KiCAD/2022-04-16_23-14-58/footprints.pretty")(options "")(descr ""))
+  (lib (name "hmc515lp5e")(type "KiCad")(uri "${KIPRJMOD}/LIB/ul_HMC515LP5E/KiCAD/2022-04-18_09-56-09/footprints.pretty")(options "")(descr ""))
+  (lib (name "cy7c68013")(type "KiCad")(uri "${KIPRJMOD}/LIB/ul_CY7C68013A-56LTXI/KiCAD/2022-04-18_07-41-48/footprints.pretty")(options "")(descr ""))
+)

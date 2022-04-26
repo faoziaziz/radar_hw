@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "2022-04-16_23-14-58")(type "Legacy")(uri "${KIPRJMOD}/LIB/ul_ADF4169CCPZ/KiCAD/2022-04-16_23-14-58/2022-04-16_23-14-58.lib")(options "")(descr ""))
+  (lib (name "2022-04-18_07-41-48")(type "Legacy")(uri "${KIPRJMOD}/LIB/ul_CY7C68013A-56LTXI/KiCAD/2022-04-18_07-41-48/2022-04-18_07-41-48.lib")(options "")(descr ""))
+  (lib (name "2022-04-18_08-02-53")(type "Legacy")(uri "${KIPRJMOD}/LIB/ul_ADP3334ARZ/KiCAD/2022-04-18_08-02-53/2022-04-18_08-02-53.lib")(options "")(descr ""))
+  (lib (name "2022-04-18_10-06-03")(type "Legacy")(uri "${KIPRJMOD}/LIB/ul_OP184FSZ-REEL7/KiCAD/2022-04-18_10-06-03/2022-04-18_10-06-03.lib")(options "")(descr ""))
+)
